@@ -1,0 +1,23 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Node dependencies
+node_modules/
+
+# Build outputs
+client/dist/
+client/build/
+
+# Environment variables (never commit these)
+server/.env
+client/.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
